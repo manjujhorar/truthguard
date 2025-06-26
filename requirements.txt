@@ -1,0 +1,8 @@
+streamlit
+googletrans==4.0.0-rc1
+python-whois
+langdetect
+validators
+blinker
+requests
+beautifulsoup4
