@@ -39,6 +39,8 @@ def get_whois_info(domain):
 
 translator = Translator()
 
+st.image("https://i.imgur.com/NS92eVU.png", width=250)
+
 st.set_page_config(page_title="TruthGuard AI by Jhorar", layout="centered")
 st.title("📧 TruthGuard AI by Jhorar")
 st.write("Multilingual Scam Detector with Cybercrime Help Section")
